@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893783455790",
+    "project_id": "talks-d6a2a",
+    "storage_bucket": "talks-d6a2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893783455790:android:5b31983aab514438be47bf",
+        "android_client_info": {
+          "package_name": "com.example.talks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893783455790-tdct20j6npiis84p14k06mb5reh38lqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGItghzq_62QP-hupRlJSWNjSVMM1yuy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893783455790-tdct20j6npiis84p14k06mb5reh38lqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
